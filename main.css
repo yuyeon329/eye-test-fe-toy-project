@@ -1,0 +1,12 @@
+body {
+  font-family: 'Jua', 'Anton', sans-serif;
+  background-color: black;
+  padding: 5vw;
+}
+
+.wrapper {
+  background-color: aliceblue;
+  width: 40vw;
+  height: 45vw;
+  margin: auto;
+}
