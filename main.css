@@ -2,6 +2,13 @@ body {
   font-family: 'Jua', 'Anton', sans-serif;
   background-color: black;
   padding: 3vw;
+  font-size: 2.5em;
+}
+
+@media only screen and (max-width: 900px){
+  body {
+    font-size: 1.5em;
+  }
 }
 
 .wrapper {
@@ -30,6 +37,7 @@ body {
   background-color: blue;
   width : 18vw;
   height : 5vw;
+  text-align: right;
 }
 
 .gameboard {
