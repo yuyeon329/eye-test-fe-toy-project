@@ -1,7 +1,7 @@
 body {
   font-family: 'Jua', 'Anton', sans-serif;
   background-color: black;
-  padding: 5vw;
+  padding: 3vw;
 }
 
 .wrapper {
@@ -9,4 +9,31 @@ body {
   width: 40vw;
   height: 45vw;
   margin: auto;
+}
+
+.inner {
+}
+
+.info {
+  display: flex;
+  padding-left: 2vw;
+  padding-right: 2vw;
+}
+
+.level {
+  background-color: red;
+  width : 18vw;
+  height : 5vw;
+}
+
+.sec {
+  background-color: blue;
+  width : 18vw;
+  height : 5vw;
+}
+
+.gameboard {
+  background-color: yellowgreen;
+  width: 40vw;
+  height: 40vw;
 }
